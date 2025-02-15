@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ujjwalgarg100204/Magic-Notes-Taking-using-vanilla-JS">
+  <a href="https://github.com/gargujjwal/Magic-Notes-Taking-using-vanilla-JS">
     <img src="./images/brand-icon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     A user-friendly website where you can effortlessly add, search, and delete small notes. With a sleek and responsive design, it offers an intuitive experience. Powered by the dynamic trio of Tailwind CSS, Vanilla JavaScript, and Daisy UI, it also features an inherent dark mode for a visually appealing interface.
     <br />
-    <a href="https://github.com/ujjwalgarg100204/Magic-Notes-Taking-using-vanilla-JS"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gargujjwal/Magic-Notes-Taking-using-vanilla-JS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ujjwalgarg100204.github.io/Magic-Notes-Taking-using-vanilla-JS">View Demo</a>
+    <a href="https://gargujjwal.github.io/Magic-Notes-Taking-using-vanilla-JS">View Demo</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/Magic-Notes-Taking-using-vanilla-JS/issues">Report Bug</a>
+    <a href="https://github.com/gargujjwal/Magic-Notes-Taking-using-vanilla-JS/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/Magic-Notes-Taking-using-vanilla-JS/issues">Request Feature</a>
+    <a href="https://github.com/gargujjwal/Magic-Notes-Taking-using-vanilla-JS/issues">Request Feature</a>
   </p>
 </div>
 
@@ -103,16 +103,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Links
 
--   Repo URL: [https://github.com/ujjwalgarg100204/Magic-Notes-Taking-using-vanilla-JS](https://github.com/ujjwalgarg100204/Magic-Notes-Taking-using-vanilla-JS)
--   Live Site URL: [https://ujjwalgarg100204.github.io/Magic-Notes-Taking-using-vanilla-JS](https://ujjwalgarg100204.github.io/Magic-Notes-Taking-using-vanilla-JS)
+-   Repo URL: [https://github.com/gargujjwal/Magic-Notes-Taking-using-vanilla-JS](https://github.com/gargujjwal/Magic-Notes-Taking-using-vanilla-JS)
+-   Live Site URL: [https://gargujjwal.github.io/Magic-Notes-Taking-using-vanilla-JS](https://gargujjwal.github.io/Magic-Notes-Taking-using-vanilla-JS)
 
 <!-- AUTHOR -->
 
 ## Author
 
--   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
--   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
--   Linkedin - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
+-   Website - [Ujjwal Garg](https://github.com/gargujjwal)
+-   Instagram - [@gargujjwal](https://www.instagram.com/gargujjwal/)
+-   Linkedin - [@gargujjwal](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
 -   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -120,10 +120,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/Magic-Notes-Taking-using-vanilla-JS.svg?style=for-the-badge
-[stars-url]: https://github.com/ujjwalgarg100204/Magic-Notes-Taking-using-vanilla-JS/stargazers
-[license-shield]: https://img.shields.io/github/license/ujjwalgarg100204/Magic-Notes-Taking-using-vanilla-JS.svg?style=for-the-badge
-[license-url]: https://github.com/ujjwalgarg100204/Magic-Notes-Taking-using-vanilla-JS/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/gargujjwal/Magic-Notes-Taking-using-vanilla-JS.svg?style=for-the-badge
+[stars-url]: https://github.com/gargujjwal/Magic-Notes-Taking-using-vanilla-JS/stargazers
+[license-shield]: https://img.shields.io/github/license/gargujjwal/Magic-Notes-Taking-using-vanilla-JS.svg?style=for-the-badge
+[license-url]: https://github.com/gargujjwal/Magic-Notes-Taking-using-vanilla-JS/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ujjwal-garg-3a5639243
 [desktop-view-screenshot]: ./screenshots/desktop-view.png
